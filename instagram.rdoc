@@ -1,4 +1,4 @@
-Instagram
+[Instagram](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2735)
 ================
 Mike Krieger and Kevin Systrom
 ---
@@ -22,15 +22,10 @@ Mike Krieger and Kevin Systrom
   - Its easy to build solutions to problems no one have
   - How do you know if you're solving the right problems?
   - It's ok to solve simple problems
-  - Once you've made a solution to a problem, its really necessary to 
-    find out if people really have that problem. Best way to get this 
-    done is to get the product out in front of the users
+  - Once you've made a solution to a problem, its really necessary to find out if people really have that problem. Best way to get this done is to get the product out in front of the users
   - Scaling a product which solves a simple problem is a hard problem
-- Fourth Myth: Work for months building a robust product in secrecy, then launch 
-to the world
-  - Problem with stealth startups: esp for consumer internet, you dont feedback
-    when you should have. Putting in front of people is the most learning
-    experience.
+- Fourth Myth: Work for months building a robust product in secrecy, then launch to the world
+  - Problem with stealth startups: esp for consumer internet, you dont feedback when you should have. Putting in front of people is the most learning experience.
   - Building a MVP is really important.
   - Fail early and often, make failing as low cost as possible.
   - Your job: fail your way to success
@@ -45,8 +40,7 @@ to the world
   - Raising capital
   - Bank accounts, Taxes, forms, insurance, etc. 
 - Seventh Myth: Successful startups come from a single great idea
-  - You dont need a great idea, just keep looking in the solution space,
-    until you can find something that you can do better
+  - You dont need a great idea, just keep looking in the solution space, until you can find something that you can do better
   - Themes will follow you
   - Sharing and discussing helps
 - Eight Myth: Greate startups happen overnight
@@ -57,3 +51,4 @@ to the world
   - Its a long slog!
 - Best time so start is now!
 - Hunger to build stuff and putting in front of people is awesome
+- Work life balance is super important. There are things you need to give up, there are distractions you need to remove.
